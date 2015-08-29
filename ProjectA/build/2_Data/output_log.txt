@@ -1,0 +1,32 @@
+Initialize engine version: 4.6.1f1 (d1db7a1b5196)
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.0]
+    Renderer: Mobile Intel(R) 965 Express Chipset Family (ID=0x2a02)
+    Vendor:   Intel
+    VRAM:     128 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\FGJ2015\UNITY\ProjectA\build\2_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\FGJ2015\UNITY\ProjectA\build\2_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\FGJ2015\UNITY\ProjectA\build\2_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\FGJ2015\UNITY\ProjectA\build\2_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\FGJ2015\UNITY\ProjectA\build\2_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\FGJ2015\UNITY\ProjectA\build\2_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.133 seconds
+desktop: 1280x800 60Hz; virtual: 1280x800 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found.
+<RI> Input initialized.
+Platform assembly: D:\FGJ2015\UNITY\ProjectA\build\2_Data\Managed\System.Core.dll (this message is harmless)
+UnloadTime: 37.217785 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 131.
+Total: 44.391872 ms (FindLiveObjects: 0.427779 ms CreateObjectMapping: 0.021653 ms MarkObjects: 32.440033 ms  DeleteObjects: 0.583204 ms)
+
+UnloadTime: 0.550964 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 432.
+Total: 1.636533 ms (FindLiveObjects: 0.050525 ms CreateObjectMapping: 0.023578 ms MarkObjects: 0.188627 ms  DeleteObjects: 0.033683 ms)
+
